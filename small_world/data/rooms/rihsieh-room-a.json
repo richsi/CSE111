@@ -1,0 +1,10 @@
+{
+	"Type" : "Room",
+	"Id" : "rihsieh-room-a",
+	"Name" : "richard's room",
+	"Description" : "Located at the base of campus, right across from the 711. North of rihsieh-room-b.",
+	"Links" : {
+		"south" : "rihsieh-room-b",
+        "west" : "mrober10-room-a"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"Type" : "Room",
+	"Id" : "rihsieh-room-b",
+	"Name" : "ric's room",
+	"Description" : "Over the mountains and through the valleys. Located in Sunnyvale.",
+	"Links" : {
+		"north" : "rihsieh-room-a"
+
+	}
+}
